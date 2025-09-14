@@ -1,6 +1,7 @@
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout
 from random import randint
 
+print("Updatean kode baru")
 # define the APp
 app = QApplication([])
 window = QWidget()
